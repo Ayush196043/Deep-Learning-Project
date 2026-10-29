@@ -6,6 +6,7 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.162.0-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![React](https://img.shields.io/badge/React-18.3.1-61DAFB?logo=react&logoColor=black)](https://react.dev/)
 [![React Native](https://img.shields.io/badge/React_Native-Expo_51-61DAFB?logo=react&logoColor=black)](https://reactnative.dev/)
+[![Vercel](https://img.shields.io/badge/Vercel-Web_Deploy-000000?logo=vercel&logoColor=white)](https://vercel.com/)
 [![GCP Cloud Run](https://img.shields.io/badge/GCP-Cloud_Run-4285F4?logo=google-cloud&logoColor=white)](https://cloud.google.com/run)
 [![Tests](https://img.shields.io/badge/Pytest-33%20Passed-4CAF50?logo=pytest&logoColor=white)](https://pytest.org/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -385,6 +386,16 @@ Google Cloud Run was chosen over Cloud Functions because:
 ```powershell
 .\gcp\deploy_cloud_run.ps1 -ProjectId "potato-leaf-disease-ai" -Region "asia-south1"
 ```
+
+---
+
+## 🌐 Vercel Web Deployment
+
+The interactive React.js web client is pre-configured for automated continuous deployment (CI/CD) on **Vercel**:
+- **Automatic Multi-Directory Builds**: Handled via root `package.json` and `vercel.json` with zero manual configuration.
+- **Client-Side Routing**: SPA rewrites configured in `frontend/vercel.json` to prevent 404s on refresh.
+- **Dual-Mode Showcase**: Connects to the live Cloud API via `REACT_APP_API_URL` or runs in Interactive Simulation Mode for instant portfolio demonstration.
+- **Detailed Step-by-Step Guide**: Follow [docs/VERCEL_DEPLOYMENT_GUIDE.md](docs/VERCEL_DEPLOYMENT_GUIDE.md).
 
 ---
 
