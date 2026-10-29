@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Potato Leaf Doctor",
+    "slug": "potato-leaf-disease-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1b5e20"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSCameraUsageDescription": "Allow Potato Leaf Doctor to use your camera to photograph diseased leaves in the field.",
+        "NSPhotoLibraryUsageDescription": "Allow Potato Leaf Doctor to access photos to select potato leaf specimens from your gallery."
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "permissions": [
+        "android.permission.CAMERA",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.WRITE_EXTERNAL_STORAGE"
+      ]
+    }
+  }
+}

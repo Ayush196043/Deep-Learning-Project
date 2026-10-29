@@ -1,0 +1,19 @@
+# Core Deep Learning & Numerical Computing
+tensorflow>=2.15.0,<2.18.0
+numpy>=1.24.3,<2.0.0
+pillow>=10.2.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+scikit-learn>=1.4.0
+
+# FastAPI Backend
+fastapi>=0.110.0
+uvicorn[standard]>=0.28.0
+python-multipart>=0.0.9
+pydantic>=2.6.0
+requests>=2.31.0
+
+# Testing & Tooling
+pytest>=8.0.0
+httpx>=0.27.0
+ipykernel>=6.29.0

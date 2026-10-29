@@ -1,0 +1,27 @@
+# Version Control & Environments
+.git
+.gitignore
+.venv
+venv/
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+
+# Raw & Temporary Data (Excluded to keep container slim)
+data/raw/
+data/processed/augmentation_samples.png
+data/processed/eda_class_distribution.png
+data/processed/training_curves_baseline.png
+data/processed/confusion_matrix.png
+data/processed/misclassified_samples.png
+
+# Testing & Cache
+.pytest_cache
+tests/
+notebooks/
+frontend/
+mobile/
+.idea
+.vscode
+*.log

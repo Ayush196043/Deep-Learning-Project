@@ -1,0 +1,36 @@
+{
+  "accuracy": 0.8657,
+  "total_test_samples": 216,
+  "per_class": {
+    "Potato___Early_blight": {
+      "precision": 0.8839,
+      "recall": 0.99,
+      "f1_score": 0.934,
+      "support": 100
+    },
+    "Potato___Late_blight": {
+      "precision": 0.8462,
+      "recall": 0.88,
+      "f1_score": 0.8627,
+      "support": 100
+    },
+    "Potato___healthy": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "support": 16
+    }
+  },
+  "macro_avg": {
+    "precision": 0.5767,
+    "recall": 0.6233,
+    "f1_score": 0.5989
+  },
+  "weighted_avg": {
+    "precision": 0.801,
+    "recall": 0.8657,
+    "f1_score": 0.8318
+  },
+  "misclassified_count": 29,
+  "misclassified_percentage": 13.43
+}

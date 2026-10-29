@@ -1,0 +1,466 @@
+[
+  {
+    "sample_index": 73,
+    "image_path": "D:\\Research Paper\\Deep Learning project\\data\\raw\\Potato___Early_blight\\357b61ef-a56b-4207-aa26-161b0ef3e635___RS_Early.B 8492.JPG",
+    "relative_path": "data/raw/Potato___Early_blight/357b61ef-a56b-4207-aa26-161b0ef3e635___RS_Early.B 8492.JPG",
+    "filename": "357b61ef-a56b-4207-aa26-161b0ef3e635___RS_Early.B 8492.JPG",
+    "true_class": "Potato___Early_blight",
+    "true_index": 0,
+    "predicted_class": "Potato___Late_blight",
+    "predicted_index": 1,
+    "confidence": 0.65440833568573,
+    "probabilities": {
+      "Potato___Early_blight": 0.07184179872274399,
+      "Potato___Late_blight": 0.65440833568573,
+      "Potato___healthy": 0.2737498879432678
+    }
+  },
+  {
+    "sample_index": 103,
+    "image_path": "D:\\Research Paper\\Deep Learning project\\data\\raw\\Potato___Late_blight\\62d41420-8e32-47d2-9a37-698c07f7dc16___RS_LB 2543.JPG",
+    "relative_path": "data/raw/Potato___Late_blight/62d41420-8e32-47d2-9a37-698c07f7dc16___RS_LB 2543.JPG",
+    "filename": "62d41420-8e32-47d2-9a37-698c07f7dc16___RS_LB 2543.JPG",
+    "true_class": "Potato___Late_blight",
+    "true_index": 1,
+    "predicted_class": "Potato___Early_blight",
+    "predicted_index": 0,
+    "confidence": 0.5788038969039917,
+    "probabilities": {
+      "Potato___Early_blight": 0.5788038969039917,
+      "Potato___Late_blight": 0.3532852530479431,
+      "Potato___healthy": 0.0679108127951622
+    }
+  },
+  {
+    "sample_index": 114,
+    "image_path": "D:\\Research Paper\\Deep Learning project\\data\\raw\\Potato___Late_blight\\e0a559bf-6345-4c5a-8b42-5545b52a2f1b___RS_LB 5456.JPG",
+    "relative_path": "data/raw/Potato___Late_blight/e0a559bf-6345-4c5a-8b42-5545b52a2f1b___RS_LB 5456.JPG",
+    "filename": "e0a559bf-6345-4c5a-8b42-5545b52a2f1b___RS_LB 5456.JPG",
+    "true_class": "Potato___Late_blight",
+    "true_index": 1,
+    "predicted_class": "Potato___Early_blight",
+    "predicted_index": 0,
+    "confidence": 0.6493458151817322,
+    "probabilities": {
+      "Potato___Early_blight": 0.6493458151817322,
+      "Potato___Late_blight": 0.3493106961250305,
+      "Potato___healthy": 0.0013434287393465638
+    }
+  },
+  {
+    "sample_index": 115,
+    "image_path": "D:\\Research Paper\\Deep Learning project\\data\\raw\\Potato___Late_blight\\17515ff9-075f-45a2-b8e6-1b8ba25c293d___RS_LB 4980.JPG",
+    "relative_path": "data/raw/Potato___Late_blight/17515ff9-075f-45a2-b8e6-1b8ba25c293d___RS_LB 4980.JPG",
+    "filename": "17515ff9-075f-45a2-b8e6-1b8ba25c293d___RS_LB 4980.JPG",
+    "true_class": "Potato___Late_blight",
+    "true_index": 1,
+    "predicted_class": "Potato___Early_blight",
+    "predicted_index": 0,
+    "confidence": 0.8636338710784912,
+    "probabilities": {
+      "Potato___Early_blight": 0.8636338710784912,
+      "Potato___Late_blight": 0.1274237483739853,
+      "Potato___healthy": 0.008942409418523312
+    }
+  },
+  {
+    "sample_index": 121,
+    "image_path": "D:\\Research Paper\\Deep Learning project\\data\\raw\\Potato___Late_blight\\145216a1-aab7-4f40-851d-a56c436ad0e3___RS_LB 2715.JPG",
+    "relative_path": "data/raw/Potato___Late_blight/145216a1-aab7-4f40-851d-a56c436ad0e3___RS_LB 2715.JPG",
+    "filename": "145216a1-aab7-4f40-851d-a56c436ad0e3___RS_LB 2715.JPG",
+    "true_class": "Potato___Late_blight",
+    "true_index": 1,
+    "predicted_class": "Potato___Early_blight",
+    "predicted_index": 0,
+    "confidence": 0.817290723323822,
+    "probabilities": {
+      "Potato___Early_blight": 0.817290723323822,
+      "Potato___Late_blight": 0.18101216852664948,
+      "Potato___healthy": 0.0016971485456451774
+    }
+  },
+  {
+    "sample_index": 132,
+    "image_path": "D:\\Research Paper\\Deep Learning project\\data\\raw\\Potato___Late_blight\\9570095c-02e9-497b-bec1-4e526f3462e5___RS_LB 2815.JPG",
+    "relative_path": "data/raw/Potato___Late_blight/9570095c-02e9-497b-bec1-4e526f3462e5___RS_LB 2815.JPG",
+    "filename": "9570095c-02e9-497b-bec1-4e526f3462e5___RS_LB 2815.JPG",
+    "true_class": "Potato___Late_blight",
+    "true_index": 1,
+    "predicted_class": "Potato___Early_blight",
+    "predicted_index": 0,
+    "confidence": 0.836335301399231,
+    "probabilities": {
+      "Potato___Early_blight": 0.836335301399231,
+      "Potato___Late_blight": 0.15376994013786316,
+      "Potato___healthy": 0.009894677437841892
+    }
+  },
+  {
+    "sample_index": 138,
+    "image_path": "D:\\Research Paper\\Deep Learning project\\data\\raw\\Potato___Late_blight\\c3cd2ad3-174e-48b4-a7a5-ce63be745fd5___RS_LB 3243.JPG",
+    "relative_path": "data/raw/Potato___Late_blight/c3cd2ad3-174e-48b4-a7a5-ce63be745fd5___RS_LB 3243.JPG",
+    "filename": "c3cd2ad3-174e-48b4-a7a5-ce63be745fd5___RS_LB 3243.JPG",
+    "true_class": "Potato___Late_blight",
+    "true_index": 1,
+    "predicted_class": "Potato___Early_blight",
+    "predicted_index": 0,
+    "confidence": 0.8288388848304749,
+    "probabilities": {
+      "Potato___Early_blight": 0.8288388848304749,
+      "Potato___Late_blight": 0.15117768943309784,
+      "Potato___healthy": 0.019983334466814995
+    }
+  },
+  {
+    "sample_index": 149,
+    "image_path": "D:\\Research Paper\\Deep Learning project\\data\\raw\\Potato___Late_blight\\fdf53f6c-db92-48b9-9e06-0358e4114be6___RS_LB 2656.JPG",
+    "relative_path": "data/raw/Potato___Late_blight/fdf53f6c-db92-48b9-9e06-0358e4114be6___RS_LB 2656.JPG",
+    "filename": "fdf53f6c-db92-48b9-9e06-0358e4114be6___RS_LB 2656.JPG",
+    "true_class": "Potato___Late_blight",
+    "true_index": 1,
+    "predicted_class": "Potato___Early_blight",
+    "predicted_index": 0,
+    "confidence": 0.5560927987098694,
+    "probabilities": {
+      "Potato___Early_blight": 0.5560927987098694,
+      "Potato___Late_blight": 0.4303451478481293,
+      "Potato___healthy": 0.013562036678195
+    }
+  },
+  {
+    "sample_index": 156,
+    "image_path": "D:\\Research Paper\\Deep Learning project\\data\\raw\\Potato___Late_blight\\fc9b06c8-7c63-445d-9858-a5a0c7be719b___RS_LB 3273.JPG",
+    "relative_path": "data/raw/Potato___Late_blight/fc9b06c8-7c63-445d-9858-a5a0c7be719b___RS_LB 3273.JPG",
+    "filename": "fc9b06c8-7c63-445d-9858-a5a0c7be719b___RS_LB 3273.JPG",
+    "true_class": "Potato___Late_blight",
+    "true_index": 1,
+    "predicted_class": "Potato___Early_blight",
+    "predicted_index": 0,
+    "confidence": 0.7290248274803162,
+    "probabilities": {
+      "Potato___Early_blight": 0.7290248274803162,
+      "Potato___Late_blight": 0.21693912148475647,
+      "Potato___healthy": 0.054036013782024384
+    }
+  },
+  {
+    "sample_index": 168,
+    "image_path": "D:\\Research Paper\\Deep Learning project\\data\\raw\\Potato___Late_blight\\72485a02-60b9-424a-ba1f-de8078b07176___RS_LB 3148.JPG",
+    "relative_path": "data/raw/Potato___Late_blight/72485a02-60b9-424a-ba1f-de8078b07176___RS_LB 3148.JPG",
+    "filename": "72485a02-60b9-424a-ba1f-de8078b07176___RS_LB 3148.JPG",
+    "true_class": "Potato___Late_blight",
+    "true_index": 1,
+    "predicted_class": "Potato___Early_blight",
+    "predicted_index": 0,
+    "confidence": 0.48543909192085266,
+    "probabilities": {
+      "Potato___Early_blight": 0.48543909192085266,
+      "Potato___Late_blight": 0.4700589179992676,
+      "Potato___healthy": 0.04450197517871857
+    }
+  },
+  {
+    "sample_index": 183,
+    "image_path": "D:\\Research Paper\\Deep Learning project\\data\\raw\\Potato___Late_blight\\72b12e17-d76f-4254-a4af-3ed3c3859500___RS_LB 3334.JPG",
+    "relative_path": "data/raw/Potato___Late_blight/72b12e17-d76f-4254-a4af-3ed3c3859500___RS_LB 3334.JPG",
+    "filename": "72b12e17-d76f-4254-a4af-3ed3c3859500___RS_LB 3334.JPG",
+    "true_class": "Potato___Late_blight",
+    "true_index": 1,
+    "predicted_class": "Potato___Early_blight",
+    "predicted_index": 0,
+    "confidence": 0.6200969815254211,
+    "probabilities": {
+      "Potato___Early_blight": 0.6200969815254211,
+      "Potato___Late_blight": 0.3514891564846039,
+      "Potato___healthy": 0.02841385267674923
+    }
+  },
+  {
+    "sample_index": 187,
+    "image_path": "D:\\Research Paper\\Deep Learning project\\data\\raw\\Potato___Late_blight\\e9cc84b7-fc38-4e65-a129-c7a63df76780___RS_LB 2705.JPG",
+    "relative_path": "data/raw/Potato___Late_blight/e9cc84b7-fc38-4e65-a129-c7a63df76780___RS_LB 2705.JPG",
+    "filename": "e9cc84b7-fc38-4e65-a129-c7a63df76780___RS_LB 2705.JPG",
+    "true_class": "Potato___Late_blight",
+    "true_index": 1,
+    "predicted_class": "Potato___Early_blight",
+    "predicted_index": 0,
+    "confidence": 0.5243632197380066,
+    "probabilities": {
+      "Potato___Early_blight": 0.5243632197380066,
+      "Potato___Late_blight": 0.4422088861465454,
+      "Potato___healthy": 0.03342785686254501
+    }
+  },
+  {
+    "sample_index": 195,
+    "image_path": "D:\\Research Paper\\Deep Learning project\\data\\raw\\Potato___Late_blight\\48f93953-2de7-4724-9c7b-69dc13a47759___RS_LB 4977.JPG",
+    "relative_path": "data/raw/Potato___Late_blight/48f93953-2de7-4724-9c7b-69dc13a47759___RS_LB 4977.JPG",
+    "filename": "48f93953-2de7-4724-9c7b-69dc13a47759___RS_LB 4977.JPG",
+    "true_class": "Potato___Late_blight",
+    "true_index": 1,
+    "predicted_class": "Potato___Early_blight",
+    "predicted_index": 0,
+    "confidence": 0.5566869974136353,
+    "probabilities": {
+      "Potato___Early_blight": 0.5566869974136353,
+      "Potato___Late_blight": 0.41145676374435425,
+      "Potato___healthy": 0.031856294721364975
+    }
+  },
+  {
+    "sample_index": 200,
+    "image_path": "D:\\Research Paper\\Deep Learning project\\data\\raw\\Potato___healthy\\d287be3d-cac6-4485-8c31-674fb8b459be___RS_HL 1973.JPG",
+    "relative_path": "data/raw/Potato___healthy/d287be3d-cac6-4485-8c31-674fb8b459be___RS_HL 1973.JPG",
+    "filename": "d287be3d-cac6-4485-8c31-674fb8b459be___RS_HL 1973.JPG",
+    "true_class": "Potato___healthy",
+    "true_index": 2,
+    "predicted_class": "Potato___Late_blight",
+    "predicted_index": 1,
+    "confidence": 0.8949191570281982,
+    "probabilities": {
+      "Potato___Early_blight": 0.011745708994567394,
+      "Potato___Late_blight": 0.8949191570281982,
+      "Potato___healthy": 0.09333515912294388
+    }
+  },
+  {
+    "sample_index": 201,
+    "image_path": "D:\\Research Paper\\Deep Learning project\\data\\raw\\Potato___healthy\\5cb360dd-5c17-4c57-b31d-97cd8dd8d0bd___RS_HL 1797.JPG",
+    "relative_path": "data/raw/Potato___healthy/5cb360dd-5c17-4c57-b31d-97cd8dd8d0bd___RS_HL 1797.JPG",
+    "filename": "5cb360dd-5c17-4c57-b31d-97cd8dd8d0bd___RS_HL 1797.JPG",
+    "true_class": "Potato___healthy",
+    "true_index": 2,
+    "predicted_class": "Potato___Late_blight",
+    "predicted_index": 1,
+    "confidence": 0.8532154560089111,
+    "probabilities": {
+      "Potato___Early_blight": 0.02322564460337162,
+      "Potato___Late_blight": 0.8532154560089111,
+      "Potato___healthy": 0.1235589012503624
+    }
+  },
+  {
+    "sample_index": 202,
+    "image_path": "D:\\Research Paper\\Deep Learning project\\data\\raw\\Potato___healthy\\57e24d88-fd01-4422-b8b5-d688d2296184___RS_HL 5401.JPG",
+    "relative_path": "data/raw/Potato___healthy/57e24d88-fd01-4422-b8b5-d688d2296184___RS_HL 5401.JPG",
+    "filename": "57e24d88-fd01-4422-b8b5-d688d2296184___RS_HL 5401.JPG",
+    "true_class": "Potato___healthy",
+    "true_index": 2,
+    "predicted_class": "Potato___Late_blight",
+    "predicted_index": 1,
+    "confidence": 0.7606691122055054,
+    "probabilities": {
+      "Potato___Early_blight": 0.03389870375394821,
+      "Potato___Late_blight": 0.7606691122055054,
+      "Potato___healthy": 0.20543219149112701
+    }
+  },
+  {
+    "sample_index": 203,
+    "image_path": "D:\\Research Paper\\Deep Learning project\\data\\raw\\Potato___healthy\\23f4d3b1-23f4-43fb-96c2-dae37224ec74___RS_HL 1803.JPG",
+    "relative_path": "data/raw/Potato___healthy/23f4d3b1-23f4-43fb-96c2-dae37224ec74___RS_HL 1803.JPG",
+    "filename": "23f4d3b1-23f4-43fb-96c2-dae37224ec74___RS_HL 1803.JPG",
+    "true_class": "Potato___healthy",
+    "true_index": 2,
+    "predicted_class": "Potato___Late_blight",
+    "predicted_index": 1,
+    "confidence": 0.7955015301704407,
+    "probabilities": {
+      "Potato___Early_blight": 0.023933054879307747,
+      "Potato___Late_blight": 0.7955015301704407,
+      "Potato___healthy": 0.18056544661521912
+    }
+  },
+  {
+    "sample_index": 204,
+    "image_path": "D:\\Research Paper\\Deep Learning project\\data\\raw\\Potato___healthy\\0f4ebc5a-d646-436a-919d-961342997cde___RS_HL 4183.JPG",
+    "relative_path": "data/raw/Potato___healthy/0f4ebc5a-d646-436a-919d-961342997cde___RS_HL 4183.JPG",
+    "filename": "0f4ebc5a-d646-436a-919d-961342997cde___RS_HL 4183.JPG",
+    "true_class": "Potato___healthy",
+    "true_index": 2,
+    "predicted_class": "Potato___Late_blight",
+    "predicted_index": 1,
+    "confidence": 0.8609002828598022,
+    "probabilities": {
+      "Potato___Early_blight": 0.009805543348193169,
+      "Potato___Late_blight": 0.8609002828598022,
+      "Potato___healthy": 0.12929418683052063
+    }
+  },
+  {
+    "sample_index": 205,
+    "image_path": "D:\\Research Paper\\Deep Learning project\\data\\raw\\Potato___healthy\\1106c3fc-92cb-41a6-a6c6-8f08b9b45108___RS_HL 1914.JPG",
+    "relative_path": "data/raw/Potato___healthy/1106c3fc-92cb-41a6-a6c6-8f08b9b45108___RS_HL 1914.JPG",
+    "filename": "1106c3fc-92cb-41a6-a6c6-8f08b9b45108___RS_HL 1914.JPG",
+    "true_class": "Potato___healthy",
+    "true_index": 2,
+    "predicted_class": "Potato___Early_blight",
+    "predicted_index": 0,
+    "confidence": 0.6662899255752563,
+    "probabilities": {
+      "Potato___Early_blight": 0.6662899255752563,
+      "Potato___Late_blight": 0.27954065799713135,
+      "Potato___healthy": 0.05416945368051529
+    }
+  },
+  {
+    "sample_index": 206,
+    "image_path": "D:\\Research Paper\\Deep Learning project\\data\\raw\\Potato___healthy\\b4031970-60ea-4739-9fed-6c81be1bad1c___RS_HL 1752.JPG",
+    "relative_path": "data/raw/Potato___healthy/b4031970-60ea-4739-9fed-6c81be1bad1c___RS_HL 1752.JPG",
+    "filename": "b4031970-60ea-4739-9fed-6c81be1bad1c___RS_HL 1752.JPG",
+    "true_class": "Potato___healthy",
+    "true_index": 2,
+    "predicted_class": "Potato___Late_blight",
+    "predicted_index": 1,
+    "confidence": 0.887386679649353,
+    "probabilities": {
+      "Potato___Early_blight": 0.01305253617465496,
+      "Potato___Late_blight": 0.887386679649353,
+      "Potato___healthy": 0.09956076741218567
+    }
+  },
+  {
+    "sample_index": 207,
+    "image_path": "D:\\Research Paper\\Deep Learning project\\data\\raw\\Potato___healthy\\23f1ab77-d664-49c4-92eb-41eb66c6d101___RS_HL 4169.JPG",
+    "relative_path": "data/raw/Potato___healthy/23f1ab77-d664-49c4-92eb-41eb66c6d101___RS_HL 4169.JPG",
+    "filename": "23f1ab77-d664-49c4-92eb-41eb66c6d101___RS_HL 4169.JPG",
+    "true_class": "Potato___healthy",
+    "true_index": 2,
+    "predicted_class": "Potato___Late_blight",
+    "predicted_index": 1,
+    "confidence": 0.9279916882514954,
+    "probabilities": {
+      "Potato___Early_blight": 0.007584556471556425,
+      "Potato___Late_blight": 0.9279916882514954,
+      "Potato___healthy": 0.06442368775606155
+    }
+  },
+  {
+    "sample_index": 208,
+    "image_path": "D:\\Research Paper\\Deep Learning project\\data\\raw\\Potato___healthy\\e693354a-053c-4093-8642-cc8f5f9eb2cc___RS_HL 1746.JPG",
+    "relative_path": "data/raw/Potato___healthy/e693354a-053c-4093-8642-cc8f5f9eb2cc___RS_HL 1746.JPG",
+    "filename": "e693354a-053c-4093-8642-cc8f5f9eb2cc___RS_HL 1746.JPG",
+    "true_class": "Potato___healthy",
+    "true_index": 2,
+    "predicted_class": "Potato___Late_blight",
+    "predicted_index": 1,
+    "confidence": 0.8258821964263916,
+    "probabilities": {
+      "Potato___Early_blight": 0.1391003578901291,
+      "Potato___Late_blight": 0.8258821964263916,
+      "Potato___healthy": 0.03501735255122185
+    }
+  },
+  {
+    "sample_index": 209,
+    "image_path": "D:\\Research Paper\\Deep Learning project\\data\\raw\\Potato___healthy\\2dee1571-ef6b-40ef-8c46-334e89aad3f1___RS_HL 1950.JPG",
+    "relative_path": "data/raw/Potato___healthy/2dee1571-ef6b-40ef-8c46-334e89aad3f1___RS_HL 1950.JPG",
+    "filename": "2dee1571-ef6b-40ef-8c46-334e89aad3f1___RS_HL 1950.JPG",
+    "true_class": "Potato___healthy",
+    "true_index": 2,
+    "predicted_class": "Potato___Late_blight",
+    "predicted_index": 1,
+    "confidence": 0.7664923071861267,
+    "probabilities": {
+      "Potato___Early_blight": 0.045313384383916855,
+      "Potato___Late_blight": 0.7664923071861267,
+      "Potato___healthy": 0.18819433450698853
+    }
+  },
+  {
+    "sample_index": 210,
+    "image_path": "D:\\Research Paper\\Deep Learning project\\data\\raw\\Potato___healthy\\3a1dbeee-089c-43f0-8f51-a92d3687a515___RS_HL 1754.JPG",
+    "relative_path": "data/raw/Potato___healthy/3a1dbeee-089c-43f0-8f51-a92d3687a515___RS_HL 1754.JPG",
+    "filename": "3a1dbeee-089c-43f0-8f51-a92d3687a515___RS_HL 1754.JPG",
+    "true_class": "Potato___healthy",
+    "true_index": 2,
+    "predicted_class": "Potato___Late_blight",
+    "predicted_index": 1,
+    "confidence": 0.5977994799613953,
+    "probabilities": {
+      "Potato___Early_blight": 0.25057464838027954,
+      "Potato___Late_blight": 0.5977994799613953,
+      "Potato___healthy": 0.15162591636180878
+    }
+  },
+  {
+    "sample_index": 211,
+    "image_path": "D:\\Research Paper\\Deep Learning project\\data\\raw\\Potato___healthy\\58a98860-86d8-41e7-9f8c-cc2ca5e90012___RS_HL 1758.JPG",
+    "relative_path": "data/raw/Potato___healthy/58a98860-86d8-41e7-9f8c-cc2ca5e90012___RS_HL 1758.JPG",
+    "filename": "58a98860-86d8-41e7-9f8c-cc2ca5e90012___RS_HL 1758.JPG",
+    "true_class": "Potato___healthy",
+    "true_index": 2,
+    "predicted_class": "Potato___Late_blight",
+    "predicted_index": 1,
+    "confidence": 0.8404540419578552,
+    "probabilities": {
+      "Potato___Early_blight": 0.010950594209134579,
+      "Potato___Late_blight": 0.8404540419578552,
+      "Potato___healthy": 0.14859531819820404
+    }
+  },
+  {
+    "sample_index": 212,
+    "image_path": "D:\\Research Paper\\Deep Learning project\\data\\raw\\Potato___healthy\\5e19b1f4-fd65-4c4d-bcd2-18c8c519eddb___RS_HL 1965.JPG",
+    "relative_path": "data/raw/Potato___healthy/5e19b1f4-fd65-4c4d-bcd2-18c8c519eddb___RS_HL 1965.JPG",
+    "filename": "5e19b1f4-fd65-4c4d-bcd2-18c8c519eddb___RS_HL 1965.JPG",
+    "true_class": "Potato___healthy",
+    "true_index": 2,
+    "predicted_class": "Potato___Late_blight",
+    "predicted_index": 1,
+    "confidence": 0.9048883318901062,
+    "probabilities": {
+      "Potato___Early_blight": 0.00767321465536952,
+      "Potato___Late_blight": 0.9048883318901062,
+      "Potato___healthy": 0.08743847906589508
+    }
+  },
+  {
+    "sample_index": 213,
+    "image_path": "D:\\Research Paper\\Deep Learning project\\data\\raw\\Potato___healthy\\71c06efe-089f-49b3-beed-095bd7640e32___RS_HL 1947.JPG",
+    "relative_path": "data/raw/Potato___healthy/71c06efe-089f-49b3-beed-095bd7640e32___RS_HL 1947.JPG",
+    "filename": "71c06efe-089f-49b3-beed-095bd7640e32___RS_HL 1947.JPG",
+    "true_class": "Potato___healthy",
+    "true_index": 2,
+    "predicted_class": "Potato___Late_blight",
+    "predicted_index": 1,
+    "confidence": 0.7052551507949829,
+    "probabilities": {
+      "Potato___Early_blight": 0.10961011797189713,
+      "Potato___Late_blight": 0.7052551507949829,
+      "Potato___healthy": 0.1851346790790558
+    }
+  },
+  {
+    "sample_index": 214,
+    "image_path": "D:\\Research Paper\\Deep Learning project\\data\\raw\\Potato___healthy\\0be9d721-82f5-42c3-b535-7494afe01dbe___RS_HL 1814.JPG",
+    "relative_path": "data/raw/Potato___healthy/0be9d721-82f5-42c3-b535-7494afe01dbe___RS_HL 1814.JPG",
+    "filename": "0be9d721-82f5-42c3-b535-7494afe01dbe___RS_HL 1814.JPG",
+    "true_class": "Potato___healthy",
+    "true_index": 2,
+    "predicted_class": "Potato___Late_blight",
+    "predicted_index": 1,
+    "confidence": 0.692429780960083,
+    "probabilities": {
+      "Potato___Early_blight": 0.12643218040466309,
+      "Potato___Late_blight": 0.692429780960083,
+      "Potato___healthy": 0.18113809823989868
+    }
+  },
+  {
+    "sample_index": 215,
+    "image_path": "D:\\Research Paper\\Deep Learning project\\data\\raw\\Potato___healthy\\30126310-39de-4c02-b10a-23409417a4f6___RS_HL 1826.JPG",
+    "relative_path": "data/raw/Potato___healthy/30126310-39de-4c02-b10a-23409417a4f6___RS_HL 1826.JPG",
+    "filename": "30126310-39de-4c02-b10a-23409417a4f6___RS_HL 1826.JPG",
+    "true_class": "Potato___healthy",
+    "true_index": 2,
+    "predicted_class": "Potato___Late_blight",
+    "predicted_index": 1,
+    "confidence": 0.7669306993484497,
+    "probabilities": {
+      "Potato___Early_blight": 0.0587666779756546,
+      "Potato___Late_blight": 0.7669306993484497,
+      "Potato___healthy": 0.17430266737937927
+    }
+  }
+]

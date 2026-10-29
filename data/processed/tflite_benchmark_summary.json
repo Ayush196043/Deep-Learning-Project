@@ -1,0 +1,41 @@
+{
+  "Original_Keras": {
+    "size_kb": 5000.3,
+    "size_mb": 4.88,
+    "latency_ms": 35.1,
+    "mae_vs_keras": 0.0,
+    "compression_ratio": "1.0x"
+  },
+  "Float32": {
+    "size_kb": 1652.2,
+    "size_mb": 1.61,
+    "latency_ms": 34.02,
+    "mae_vs_keras": 0.0,
+    "compression_ratio": "3.0x",
+    "filename": "potato_model_fp32.tflite"
+  },
+  "Float16": {
+    "size_kb": 829.9,
+    "size_mb": 0.81,
+    "latency_ms": 30.33,
+    "mae_vs_keras": 0.0,
+    "compression_ratio": "6.0x",
+    "filename": "potato_model_fp16.tflite"
+  },
+  "Dynamic_Int8": {
+    "size_kb": 428.9,
+    "size_mb": 0.42,
+    "latency_ms": 19.55,
+    "mae_vs_keras": 0.0,
+    "compression_ratio": "11.7x",
+    "filename": "potato_model_dynamic_quant.tflite"
+  },
+  "Full_Int8": {
+    "size_kb": 433.8,
+    "size_mb": 0.42,
+    "latency_ms": 9.58,
+    "mae_vs_keras": 0.001302,
+    "compression_ratio": "11.5x",
+    "filename": "potato_model_int8.tflite"
+  }
+}

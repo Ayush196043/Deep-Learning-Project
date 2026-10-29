@@ -1,0 +1,59 @@
+# Python virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pytest_cache/
+.coverage
+htmlcov/
+data/processed/.mplconfig/
+
+# Node.js & React / React Native
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.expo/
+.expo-shared/
+build/
+dist/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Operating System specific
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# Large raw datasets (download via script or PlantVillage link)
+data/raw/*
+!data/raw/.gitkeep
+!data/raw/Potato___Early_blight/.gitkeep
+!data/raw/Potato___Late_blight/.gitkeep
+!data/raw/Potato___healthy/.gitkeep
+
+# Processed evaluation artifacts & manifests (track plots & json metrics)
+data/processed/*
+!data/processed/.gitkeep
+!data/processed/*.json
+!data/processed/*.png
+
+# Model weights (track lightweight production weights < 10MB)
+models/saved_models/*
+!models/saved_models/.gitkeep
+!models/saved_models/baseline_best.keras
+models/tflite/*
+!models/tflite/.gitkeep
+!models/tflite/*.tflite
+
+# Logs & temp
+*.log
