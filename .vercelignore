@@ -1,0 +1,15 @@
+# Ignore Python backend and ML artifacts from Vercel build
+backend/
+src/
+models/
+data/
+tests/
+notebooks/
+tf_serving/
+gcp/
+requirements.txt
+Dockerfile
+cloudbuild.yaml
+verify_environment.py
+run_project.ps1
+.venv/
